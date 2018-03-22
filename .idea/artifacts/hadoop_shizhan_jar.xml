@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hadoop-shizhan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hadoop_shizhan_jar</output-path>
+    <root id="archive" name="hadoop-shizhan.jar">
+      <element id="module-output" name="hadoop-shizhan" />
+    </root>
+  </artifact>
+</component>
